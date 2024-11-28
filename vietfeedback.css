@@ -1,0 +1,22 @@
+#feedbackformcon {
+
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: aliceblue;
+
+
+}
+
+.main {
+
+    background-image: url(IMGS/ricepaddies.jpg);
+    width: 100%;
+    aspect-ratio: 1;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+
+}

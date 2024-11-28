@@ -1,0 +1,61 @@
+#foodonecon {
+
+    display: flex;
+    justify-content: flex-start;
+
+
+}
+
+#foodtwocon {
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.pho {
+
+
+    border: 10px solid rgb(7, 0, 0);
+    border-radius: 5px;
+
+}
+
+#foodthreecon {
+
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.buncha {
+
+
+    border: 10px solid rgb(7, 0, 0);
+    border-radius: 5px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
+    width: 508px;
+    height: 508px;
+    margin: 20px;
+
+
+
+}
+
+
+.banhmi {
+
+
+    border: 10px solid rgb(7, 0, 0);
+    border-radius: 5px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    width: 508px;
+    height: 508px;
+
+
+}
